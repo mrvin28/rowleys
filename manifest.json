@@ -1,11 +1,11 @@
 {
-    "name": "rowleys_rota",
-    "short_name": "rowleys_rota",
+    "name": "Rowley's Team",
+    "short_name": "Rowley's",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "Weekly staff rota for Rowley's Yas Bay",
+    "background_color": "#990000",
+    "theme_color": "#990000",
+    "description": "Rota, leave and news for Rowley's Yas Bay",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
